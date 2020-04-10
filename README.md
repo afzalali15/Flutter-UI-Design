@@ -1,4 +1,4 @@
-# Grdient UI Design
+# Gradient UI Design
 
 
 <p align="center">
