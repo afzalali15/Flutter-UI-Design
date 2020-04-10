@@ -1,6 +1,10 @@
-# foody
+# Grdient UI Design
 
-A new Flutter application.
+
+<p align="center">
+  <img src="foody_ui_design.png" width="350" alt="flutter gradient UI" title="Screenshot">
+</p>
+
 
 ## Getting Started
 
